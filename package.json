@@ -18,7 +18,7 @@
   "homepage": "https://github.com/goldbergyoni/nodebestpractices#readme",
   "dependencies": {
     "markdownlint-cli": "^0.18.0"
-  }
+  },
   "scripts": {
   "sonar": "sonar-scanner"
 }
